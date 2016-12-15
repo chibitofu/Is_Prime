@@ -12,6 +12,7 @@
 		732725C01DFEF57900EB5558 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 732725BE1DFEF57900EB5558 /* Main.storyboard */; };
 		732725C21DFEF57900EB5558 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 732725C11DFEF57900EB5558 /* Assets.xcassets */; };
 		732725C51DFEF57900EB5558 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 732725C31DFEF57900EB5558 /* LaunchScreen.storyboard */; };
+		732725CD1DFEF87C00EB5558 /* 350px-Optimusg1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 732725CC1DFEF87C00EB5558 /* 350px-Optimusg1.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		732725C11DFEF57900EB5558 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		732725C41DFEF57900EB5558 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		732725C61DFEF57900EB5558 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		732725CC1DFEF87C00EB5558 /* 350px-Optimusg1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "350px-Optimusg1.jpg"; path = "../../350px-Optimusg1.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				732725BA1DFEF57900EB5558 /* AppDelegate.swift */,
 				732725BC1DFEF57900EB5558 /* ViewController.swift */,
 				732725BE1DFEF57900EB5558 /* Main.storyboard */,
+				732725CC1DFEF87C00EB5558 /* 350px-Optimusg1.jpg */,
 				732725C11DFEF57900EB5558 /* Assets.xcassets */,
 				732725C31DFEF57900EB5558 /* LaunchScreen.storyboard */,
 				732725C61DFEF57900EB5558 /* Info.plist */,
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				732725CD1DFEF87C00EB5558 /* 350px-Optimusg1.jpg in Resources */,
 				732725C51DFEF57900EB5558 /* LaunchScreen.storyboard in Resources */,
 				732725C21DFEF57900EB5558 /* Assets.xcassets in Resources */,
 				732725C01DFEF57900EB5558 /* Main.storyboard in Resources */,
